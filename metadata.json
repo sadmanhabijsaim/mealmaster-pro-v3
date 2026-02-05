@@ -1,0 +1,5 @@
+{
+  "name": "MealMaster Pro",
+  "description": "A professional meal management dashboard for shared housing, featuring member tracking, bazaar logging, and Google Sheets synchronization.",
+  "requestFramePermissions": []
+}
